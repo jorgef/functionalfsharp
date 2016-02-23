@@ -48,6 +48,7 @@
     <None Include="2-2-IsSorted.fsx" />
     <None Include="2-3-Curry.fsx" />
     <None Include="2-4-Uncurry.fsx" />
+    <None Include="2-5-Compose.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
