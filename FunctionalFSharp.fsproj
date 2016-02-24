@@ -49,7 +49,8 @@
     <None Include="2-3-Curry.fsx" />
     <None Include="2-4-Uncurry.fsx" />
     <None Include="2-5-Compose.fsx" />
-    <None Include="3-1-ListMatchfsx.fsx" />
+    <None Include="3-1-ListMatch.fsx" />
+    <None Include="3-2-Tail.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
