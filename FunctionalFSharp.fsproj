@@ -53,6 +53,7 @@
     <None Include="3-2-Tail.fsx" />
     <None Include="3-3-SetHead.fsx" />
     <None Include="3-4-Drop.fsx" />
+    <None Include="3-5-DropWhile.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
