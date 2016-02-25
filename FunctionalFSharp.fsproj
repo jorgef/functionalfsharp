@@ -51,6 +51,7 @@
     <None Include="2-5-Compose.fsx" />
     <None Include="3-1-ListMatch.fsx" />
     <None Include="3-2-Tail.fsx" />
+    <None Include="3-3-SetHead.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
