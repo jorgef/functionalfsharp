@@ -57,6 +57,7 @@
     <None Include="3-6-Init.fsx" />
     <None Include="3-7-Product.fsx" />
     <None Include="3-8-FoldNilCons.fsx" />
+    <None Include="3-9-Length.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
